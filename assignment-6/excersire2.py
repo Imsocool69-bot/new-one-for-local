@@ -1,3 +1,9 @@
+print("Notes:")
+print("Spring is number 3, 4, 5")
+print("Summer is number 6, 7, 8")
+print("Autumn is number 9, 10, 11")
+print("Winter is number 12, 1, 2")
+print("Read the notes carefully :3")
 seasons = ("Spring", "Summer", "Autumn", "Winter")
 try:
     month = int(input("enter your number (from 1 to 12): "))
